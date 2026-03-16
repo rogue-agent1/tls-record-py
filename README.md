@@ -1,0 +1,1 @@
+# tls-record-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 tls_record.py\n```\n
